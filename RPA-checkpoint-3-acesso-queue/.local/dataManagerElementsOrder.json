@@ -1,0 +1,31 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "joArrResponseAssets&Sequence_1",
+        "arrQueue&Sequence_1",
+        "lastItem&Sequence_1",
+        "queueList&Sequence_1",
+        "DataTable&Sequence_1",
+        "outputString&Sequence_1",
+        "valuesList&Sequence_5",
+        "valueData&Sequence_6",
+        "valueDataText&Sequence_6",
+        "ChartVar&Sequence_13"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
