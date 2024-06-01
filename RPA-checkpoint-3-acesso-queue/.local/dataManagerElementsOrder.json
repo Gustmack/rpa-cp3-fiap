@@ -12,6 +12,7 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "ExcelPath&Sequence_11",
         "joArrResponseAssets&Sequence_1",
         "arrQueue&Sequence_1",
         "lastItem&Sequence_1",
